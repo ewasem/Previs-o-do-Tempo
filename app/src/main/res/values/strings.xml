@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Previsao Do Tempo</string>
+    <string name="please_wait">Por favor, aguarde</string>
+
+    <string name="image_contentDescription">imagem</string>
+    <string name="miles_per_hour">km/h</string>
+    <string name="action_refresh">Refresh</string>
+</resources>
